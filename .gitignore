@@ -1,0 +1,7 @@
+venv/
+venv310/
+frames/
+input_videos/
+output_videos/
+yolov8n.pt
+__pycache__/
